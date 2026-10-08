@@ -3,10 +3,10 @@
 <img src=".github/assets/banner.jpg" width="100%" alt="Omar Raslan"/>
 
 <a href="https://github.com/Omar-Raslan-16006931">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=IT+Security+%26+Penetration+Testing+track+%F0%9F%9B%A1%EF%B8%8F;Full-stack%3A+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Supabase;Hardware%3A+Raspberry+Pi+%C2%B7+ESP32+%C2%B7+IR;Shipping+side+projects+from+Cairo+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=40&lines=IT+Security+%26+Penetration+Testing+track+%F0%9F%9B%A1%EF%B8%8F;Full-stack%3A+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Supabase;Hardware%3A+Raspberry+Pi+%C2%B7+ESP32+%C2%B7+IR;Shipping+side+projects+from+Cairo+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Omar-Raslan-16006931&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Omar-Raslan-16006931.profile&left_color=%230d1117&right_color=%230ea5e9&left_text=Profile%20Views" alt="Profile views"/>
 
 </div>
 

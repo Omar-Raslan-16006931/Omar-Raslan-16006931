@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Omar%20Raslan&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%40%20GIU%20%E2%80%A2%20IT%20Security%20%26%20Pentesting%20%E2%80%A2%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Omar Raslan"/>
+<img src=".github/assets/banner.svg" width="100%" alt="Omar Raslan"/>
 
 <a href="https://github.com/Omar-Raslan-16006931">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=IT+Security+%26+Penetration+Testing+track+%F0%9F%9B%A1%EF%B8%8F;Full-stack%3A+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Supabase;Hardware%3A+Raspberry+Pi+%C2%B7+ESP32+%C2%B7+IR;Shipping+side+projects+from+Cairo+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
@@ -128,6 +128,6 @@ Always-on-top **Electron** overlay that converts Steam store prices between 160+
 
 <a href="https://github.com/Omar-Raslan-16006931"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+<img src=".github/assets/footer.svg" width="100%"/>
 
 </div>

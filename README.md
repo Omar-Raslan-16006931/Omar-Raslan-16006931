@@ -3,7 +3,7 @@
 <img src=".github/assets/banner-swe.gif" width="100%" alt="Omar Raslan"/>
 
 <a href="https://github.com/Omar-Raslan-16006931">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=C0392B&center=true&vCenter=true&width=900&height=48&lines=Software+Engineering+student+%40+GIU+%F0%9F%92%BB;Full-stack%3A+React+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Supabase;Hardware%3A+Raspberry+Pi+%C2%B7+ESP32+%C2%B7+IR" alt="Typing SVG"/>
+  <img src=".github/assets/typing-rdr.svg" width="100%" alt="Software Engineering Student @ GIU"/>
 </a>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FOmar-Raslan-16006931&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%23c0392b&style=for-the-badge" alt="Profile views"/>
